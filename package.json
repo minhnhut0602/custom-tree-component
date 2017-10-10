@@ -1,6 +1,6 @@
 {
-  "name": "tree-component",
-  "version": "3.3.1",
+  "name": "custom-tree-component",
+  "version": "1.0.0",
   "description": "A reactjs, angular and vuejs tree component.",
   "main": "index.js",
   "scripts": {
@@ -13,14 +13,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/plantain-00/tree-component.git"
+    "url": "git+https://github.com/minhnhut0602/custom-tree-component.git"
   },
-  "author": "York Yao",
+  "author": "Nhut Phan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/plantain-00/tree-component/issues"
+    "url": "https://github.com/minhnhut0602/custom-tree-component/issues"
   },
-  "homepage": "https://github.com/plantain-00/tree-component#readme",
+  "fork": {
+    "author": "York Yao",
+    "url": "https://github.com/plantain-00/tree-component"
+  },
+  "homepage": "https://github.com/minhnhut0602/custom-tree-component#readme",
   "devDependencies": {
     "@angular/common": "4.4.4",
     "@angular/compiler": "4.4.4",
